@@ -2,6 +2,9 @@ body{
     font-family: 'Mukta', sans-serif;
     background: #ffffff;
 }
+.body-bgc{
+    background-color: rgb(162 144 142 / 34%);
+}
 .half-width  h1{
     font-size: 50px;
     line-height: 30%;
